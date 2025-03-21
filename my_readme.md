@@ -1,6 +1,6 @@
 # Project Title: Inventory Analysis
 #### Project Code: B43_DA_024_Business_Intelligence Buffs
-
+https://github.com/Jasveer8172791/Inventory-Analysis/blob/main/Black_Gold_Modern_Company_Logo.jpg
 ### Project Overview: 
 
 This project focuses on analyzing sales data using exploratory data analysis (EDA), visualization techniques, and SQL-based querying. It also includes a Power BI dashboard for effective data presentation.
