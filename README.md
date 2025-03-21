@@ -19,22 +19,43 @@ MySQL_Connection_File :  How I did connection Between MYSQL with my python jupyt
 
 ### Technologies Used: 
 
-#### Python: 
+#### Python
+
 ***With the help of Python I got some key insights like:***
 ![Screenshot 2025-03-21 174633](https://github.com/Jasveer8172791/Inventory-Analysis/blob/main/Screenshot%202025-03-21%20174633.png)
 ![Screenshot 2025-03-21 174648](https://github.com/Jasveer8172791/Inventory-Analysis/blob/main/Screenshot%202025-03-21%20174648.png)
 
-Total Revenue ,Total Unit Sold, Average Price Per Unit, Gross Profit After Tax,
- Average Order Value (AOV) Distribution,Revenue per Customer Distribution,
- Top 10 Brands by Sales Revenue,Top 10 Products by Sales Revenue,Top 10 Vendors by Sales Contribution,
- Sales Distribution by Classification.
+Using Python, we extracted key insights such as:
 
-#### MySQL: 
-After Connecting Python with Mysql I wrriten Query as well as python as well as MYSQL 
-same on both platform like python jupyter and Mysql workbanch for find and check above insights values are correcting or not.
+Total Revenue, Total Units Sold, Average Price per Unit, Gross Profit after Tax
 
-#### Power BI (for dashboard visualization): 
-There is in Power bi I visualize all insights as interactive dashboard.
+Average Order Value (AOV) Distribution, Revenue per Customer Distribution
+
+Top 10 Brands, Products, and Vendors by Sales Revenue
+
+Sales Distribution by Classification
+
+MySQL
+
+Data was stored in MySQL for structured querying.
+
+Queries were executed in both Python (Jupyter Notebook) and MySQL Workbench to validate insights.
+
+Power BI
+
+Created an interactive dashboard to visualize key insights.
+
+The dashboard dynamically updates as SQL data changes.
+
+
+Project Deliverables
+
+SQL Database: A fully populated SQL database with cleaned data.
+
+Power BI Dashboard: An interactive dashboard showcasing inventory insights.
+
+GitHub Repository: Well-documented code, SQL schema, and project instructions.
+
 
 ## 📋 Author: Jasveer 
 
