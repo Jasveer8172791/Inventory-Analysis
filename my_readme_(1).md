@@ -21,10 +21,10 @@ MySQL_Connection_File :  How I did connection Between MYSQL with my python jupyt
 
 #### Python: 
 ***With the help of Python I got some key insights like:***
-![Screenshot 2025-03-21 125009](https://github.com/Jasveer8172791/Inventory-Analysis/blob/main/Screenshot%202025-03-21%20125009.png)
-![Screenshot 2025-03-21 125035](https://github.com/Jasveer8172791/Inventory-Analysis/blob/main/Screenshot%202025-03-21%20125035.png)
+![Screenshot 2025-03-21 174633](https://github.com/Jasveer8172791/Inventory-Analysis/blob/main/Screenshot%202025-03-21%20174633.png)
+![Screenshot 2025-03-21 174648](https://github.com/Jasveer8172791/Inventory-Analysis/blob/main/Screenshot%202025-03-21%20174648.png)
 
-## Technologies Used
+## Technologies Used: 
 
 #### Python(Numpy,pandas,matplotlib, sqlalchemy create_engine,)
 
@@ -61,20 +61,20 @@ Setuped MySQL Database:
 
 Created the necessary tables using the provided SQL schema.
 
-Load the cleaned dataset into MySQL.
+Loaded the cleaned dataset into MySQL.
 
-Connect Power BI to SQL Database:
+Connected Power BI to MySQL Database:
 
 Imported data from MySQL.
 
-Create visualizations and configure automatic refresh intervals.
+Created visualizations and configure automatic refresh intervals.
 
 Validate Real-time Updates:
 Done data modifications in MySQL are reflected in Power BI.
 
 
 
-## 📋 Author: Jasveer 
+## 📋 Author: Jasveer Singh
 
 ## ✉ Feedback
 We value your feedback to improve this dashboard. 
