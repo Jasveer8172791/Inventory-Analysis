@@ -1,6 +1,8 @@
 # Project Title: Inventory Analysis
 #### Project Code: B43_DA_024_Business_Intelligence Buffs
-![Black_Gold_Modern_Company_Logo](https://github.com/Jasveer8172791/Inventory-Analysis/blob/main/Black_Gold_Modern_Company_Logo.jpg)
+
+<img src="https://raw.githubusercontent.com/Jasveer8172791/Inventory-Analysis/main/Black_Gold_Modern_Company_Logo.jpg" alt="Black Gold Modern Company Logo" width="1010" height="520">
+
 ### Project Overview: 
 
 This project focuses on analyzing sales data using exploratory data analysis (EDA), visualization techniques, and SQL-based querying. It also includes a Power BI dashboard for effective data presentation.
@@ -19,6 +21,9 @@ MySQL_Connection_File :  How I did connection Between MYSQL with my python jupyt
 
 #### Python: 
 ***With the help of Python I got some key insights like:***
+![Screenshot 2025-03-21 125009](https://github.com/Jasveer8172791/Inventory-Analysis/blob/main/Screenshot%202025-03-21%20125009.png)
+![Screenshot 2025-03-21 125035](https://github.com/Jasveer8172791/Inventory-Analysis/blob/main/Screenshot%202025-03-21%20125035.png)
+
 Total Revenue ,Total Unit Sold, Average Price Per Unit, Gross Profit After Tax,
  Average Order Value (AOV) Distribution,Revenue per Customer Distribution,
  Top 10 Brands by Sales Revenue,Top 10 Products by Sales Revenue,Top 10 Vendors by Sales Contribution,
@@ -47,3 +52,5 @@ Your support and contributions have been instrumental in making this project a s
 
 
 #### Thank you for exploring this dashboard! We appreciate your interest in understanding crime trends and contributing to awareness and policy improvements🚗⚡❤**
+
+<img src="https://raw.githubusercontent.com/Jasveer8172791/Inventory-Analysis/main/Black_Gold_Modern_Company_Logo.jpg" alt="Black Gold Modern Company Logo" width="1010" height="520">
