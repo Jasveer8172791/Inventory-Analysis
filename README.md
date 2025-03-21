@@ -21,8 +21,8 @@ MySQL_Connection_File :  How I did connection Between MYSQL with my python jupyt
 
 #### Python: 
 ***With the help of Python I got some key insights like:***
-![Screenshot 2025-03-21 125009](https://github.com/Jasveer8172791/Inventory-Analysis/blob/main/Screenshot%202025-03-21%20125009.png)
-![Screenshot 2025-03-21 125035](https://github.com/Jasveer8172791/Inventory-Analysis/blob/main/Screenshot%202025-03-21%20125035.png)
+![Screenshot 2025-03-21 174633](https://github.com/Jasveer8172791/Inventory-Analysis/blob/main/Screenshot%202025-03-21%20174633.png)
+![Screenshot 2025-03-21 174648](https://github.com/Jasveer8172791/Inventory-Analysis/blob/main/Screenshot%202025-03-21%20174648.png)
 
 Total Revenue ,Total Unit Sold, Average Price Per Unit, Gross Profit After Tax,
  Average Order Value (AOV) Distribution,Revenue per Customer Distribution,
